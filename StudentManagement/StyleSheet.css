@@ -1,0 +1,17 @@
+﻿#header
+{
+    min-height:100px;
+    width:100%;
+    background-color:#A55129;
+    color:white;
+}
+
+#footer{
+    min-height:40px;
+    width:100%;
+}
+
+#content{
+    left:20%;
+    right:20%;
+}
